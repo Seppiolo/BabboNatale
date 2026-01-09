@@ -1,4 +1,6 @@
-class BabboNatale(arcade.Window):
+
+    
+    class BabboNatale(arcade.Window):
     def __init__(self, larghezza, altezza, titolo):
         super().__init__(larghezza, altezza, titolo)
         self.babbo = None
